@@ -59,6 +59,19 @@ This project focuses on analyzing Zomato's user and city performance data throug
 * **City-Wise Growth Analysis**: Trends and patterns in the growth of different cities over the years.
 * **Customer Preferences**: City-wise breakdown of customer food preferences and ordering patterns.
 
+
+# Images:-
+
+![zomato](https://github.com/user-attachments/assets/4d12446a-5840-4aa0-8bcf-e73f150ad1e7)
+
+![zomato overview ss](https://github.com/user-attachments/assets/f7206213-0cdf-434f-9330-c41311a0beb0)
+
+![zomato user analysis ss](https://github.com/user-attachments/assets/81d501c4-65f8-400b-bddd-9bd36d529d2e)
+
+![zomato city analysis](https://github.com/user-attachments/assets/a433d934-5e0e-42c2-b105-c3e1d5dede23)
+
+
+
 # Conclusion
 This dashboard provides a comprehensive analysis of Zomato's performance across various metrics and dimensions, enabling data-driven decision-making and insights. By using these dashboards, stakeholders can better understand the dynamics of Zomato's user base and city operations, helping to drive strategic planning and operational improvements. 
 
